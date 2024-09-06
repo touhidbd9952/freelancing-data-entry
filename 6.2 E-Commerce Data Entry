@@ -1,0 +1,39 @@
+E-Commerce Product Entry
+-------------------------------
+1. open chrome browser and type "shopify", click on shopify.com
+1. create account in shopify.com
+2. click on AddProducct button to add 4 product   (for each time, go to daraz.com.bd and get product info)
+3. take a snapshort of product entry and add it in homework of masteritbd.com
+
+E-Commerce Product Information:
+1. Title: Product Name
+2. Description: Product Detail Information
+3. Media: Image Upload
+4. Category:
+5. Pricing:  Price (current price), Compare-at price (old price)
+6. Cost per item(purchase price), profit(profit amount), Margin: (profit percentage)
+7. Inventory:  Track quantity (select it)
+8. Shop Location: Continue selling when out of stock (select it, if buyer have more product to supply)
+9. This product has a SKU(Stock Keeping Unit code) or barcode: select it if exist
+	SKU: type "Stock Keeping Unit code" here if exist
+	Barcode: type barcode here if exist
+10. Shipping: This is a physical product (select it, if it is a physical product)
+11. Weight: product weight
+12. Variants: click on "Add options like Size or Color" --> Size and select size
+	  click on "Add options like Size or Color" --> Color and select color
+
+	set size wise price, if necessary. set product quantity
+	set color wise price, if necessary
+
+13. Status: Active   //select status like "Active/Inactive"
+14. Product type: cotton    //type of product
+15. Vendor: Shop Name of Seller
+16. Collections: Home page  //select on which page this product will show
+17. Tags: Cotton Shirt, Casual Shirt   //type some search key word
+17. Save 
+
+18. More actions --> Preview: to see product in live
+19. click on "Product" menu to see product added list
+
+
+
