@@ -4,8 +4,8 @@ Type1:
 Information about Company
 
 Lead = Information/Data. It can be person information, company information etc.
-One Lead:	- all information of a person
-	- all information of a company
+One Lead: - all information of a person
+	  - all information of a company
 
 Lead/Data Collection: Collecting data/information by own self.
 Lead/Data Generation: Collecting data/information by other.
@@ -90,25 +90,25 @@ Cold Email Collection (collect many email at a time on the base of particular co
 ----------------------
 	Type-1 Customer requirement: I need you to collect 200 corresponding emails of dentists besed in Los Angeles, USA. 
 
-	Data Search Formula: "Keyword" "Location" "mail address name"
+	Data Search Formula:     "Keyword" "Location" "mail address name"
 	---------------------
-	                                  "dentist" "Los Angeles, USA" "@gmail.com"
+	                         "dentist" "Los Angeles, USA" "@gmail.com"
 
 
 	Type-2 Customer requirement: I need you to collect 1000 emails from students from Norway from Facebook.
 
-	Data Search Formula: Site: (site domain) "Keyword" "Location" "main address name"
+	Data Search Formula: Site:       (site domain) "Keyword" "Location" "main address name"
 	---------------------
 	                                  site: facebook.com "student" "Norway" "@gmail.com"
 
 	Mail Account Type
 	--------------------
-		outlook		gmail		neo		provider 
-		zoho		icloud mail		titan		protonmail
-		aol		gmx		email protocols	
-		mailfence		tutanota		exchange email accounts
-		protomail		yandex mail		hubspro
-		yahoo mail		mozilla thunderbird
+		outlook		gmail		       neo		         provider 
+		zoho		icloud mail	       titan		         protonmail
+		aol		gmx email              protocols	
+		mailfence	tutanota	       exchange email accounts
+		protomail	yandex mail	       hubspro
+		yahoo mail	mozilla thunderbird
 
 	
 	Email Extractor: (copy bulk email)
