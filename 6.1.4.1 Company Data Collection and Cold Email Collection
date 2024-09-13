@@ -1,0 +1,146 @@
+////////Company Data Collection and Cold Email Collection////////////////////////////
+
+Type1: 
+Information about Company
+
+Lead = Information/Data. It can be person information, company information etc.
+One Lead:	- all information of a person
+	- all information of a company
+
+Lead/Data Collection: Collecting data/information by own self.
+Lead/Data Generation: Collecting data/information by other.
+
+B2B: Business To Business (Collecting business information for business company) Lead Generation
+B2C: Business To Customer/Consumer/Client (Collecting person information for business company) Lead Generation
+
+skrapp.io    //for company information collect
+
+How to work in "skrapp.io"
+----------------------------
+	- Open chrome browser, type "skrapp" and click on "skrapp.io"
+	- click on "Sign up for free" button
+	- click on "Signup with Google" button and follow the next procedure
+
+	(for each google account, you will get 100 credit for Email Search, 200 
+	credit for Email Varification and 50 credit for Company Search in every month. 
+	So, create 5-6 google email account for you for data entry)
+
+	- click on "Create a List" button (for first time, for next time you will see "+ New List")
+	- Create List:
+		- Enter your list name: Email list for clientName with date
+		- click on "Create" button
+		(you will see your created list in leftside menu)
+
+
+	For "Company Information Search":
+
+		- click on "Database Search"--> Company Search
+		- Company Search Box:
+			- type "EverCommerce"  //your search company name
+			- press enter
+			- click on the appropriate company name
+			
+		- Add data in Particular list:
+			- when you search a company by its name, you will see 
+			       1. Company all information (in left-side panel)
+			        2. Company employers information (in right-side panel)
+			- to save data in a pariticular list, click on "Save in list" of a employer
+			- Select destination list: click on particular list
+			- click on "Save" button
+
+		This way search company information and click on "Save in list" of a employer to save in particular list
+
+		- How to Collect all information that we saved:
+			- In Menu, click on particular list
+			- click on "Downloadlist Data" button
+			- check-mark all the check box and click on "Download as Excel" --> click on "Download File" button
+		
+		- Open and Format Excel File:
+			- In Excel File, remove all the information that are not needed
+			- adjust cell width
+			- remove all format
+			- add border
+			- bold column header and set back-ground color
+
+		- In Excel, if a cell do not have information:
+			- search in google (do web research)
+		
+			
+
+	For "Email Search":
+
+		- click on "Email Finder"
+			- First Name: type person first name
+			- Last Name: type person last name
+			- Enter a company name or website: type person company name or company website domain name
+			- click on searched result
+			- copy the required information and use it for your current task
+
+	
+	For "Email Check, Valid/Invalid"
+		
+		- click on "Email Verifier"
+			- Type in an email address: type person email address 
+			- click on "Verify" button
+			
+
+	
+
+Cold Email Collection (collect many email at a time on the base of particular condition)
+----------------------
+	Type-1 Customer requirement: I need you to collect 200 corresponding emails of dentists besed in Los Angeles, USA. 
+
+	Data Search Formula: "Keyword" "Location" "mail address name"
+	---------------------
+	                                  "dentist" "Los Angeles, USA" "@gmail.com"
+
+
+	Type-2 Customer requirement: I need you to collect 1000 emails from students from Norway from Facebook.
+
+	Data Search Formula: Site: (site domain) "Keyword" "Location" "main address name"
+	---------------------
+	                                  site: facebook.com "student" "Norway" "@gmail.com"
+
+	Mail Account Type
+	--------------------
+		outlook		gmail		neo		provider 
+		zoho		icloud mail		titan		protonmail
+		aol		gmx		email protocols	
+		mailfence		tutanota		exchange email accounts
+		protomail		yandex mail		hubspro
+		yahoo mail		mozilla thunderbird
+
+	
+	Email Extractor: (copy bulk email)
+	---------------
+	One way, using email extractor by chrome plugin
+		1. add email extractor plugin
+		2. pin email extractor with browser
+		3. do search query and  get result by formulla
+		4. in email extractor, click on 3 dot --> This can read and change site data (click here) --> When you click the extension --> reload
+		5. click on email extractor sign and page scroll, all the email will store in email extractor
+
+	Another way, using email extractor by website
+		1. open chrome browser
+		2. do search query and  get result by formulla
+		3. copy all the website
+		4. open one new tab and type "email extractor" and click on "Email Extractor - Online tool ...."
+		5. paste data in text box and click on "Extract Email" button 
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
