@@ -114,7 +114,10 @@ Cold Email Collection (collect many email at a time on the base of particular co
 	Email Extractor: (copy bulk email)
 	---------------
 	One way, using email extractor by chrome plugin
-		1. add email extractor plugin
+		1. you need to add email extractor plugin, open chrome browser and 
+		   type "download email extractor extension for chrome" --> 
+		   Email Extractor - Chrome Web Store --> add email extractor
+
 		2. pin email extractor with browser
 		3. do search query and  get result by formulla
 		4. in email extractor, click on 3 dot --> This can read and change site data (click here) --> When you click the extension --> reload
