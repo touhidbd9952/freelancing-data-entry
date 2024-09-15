@@ -47,7 +47,7 @@ How to work in "skrapp.io"
 		(you will see your created list in leftside menu)
 
 
-	For "Company Information Search":
+	For "Company Information Search" in skrapp.io:
 
 		- click on "Database Search"--> Company Search
 		- Company Search Box:
@@ -82,7 +82,7 @@ How to work in "skrapp.io"
 		
 			
 
-	For "Email Search":
+	For "Email Search" in skrapp.io:
 
 		- click on "Email Finder"
 			- First Name: type person first name
@@ -92,7 +92,7 @@ How to work in "skrapp.io"
 			- copy the required information and use it for your current task
 
 	
-	For "Email Verification (Valid/Invalid)"
+	For "Email Verification (Valid/Invalid)" in skrapp.io:
 		
 		- click on "Email Verifier"
 			- Type in an email address: type person email address 
@@ -107,18 +107,20 @@ How to work in "skrapp.io"
 
 	Type-1 Customer requirement: I need you to collect 200 corresponding emails of dentists besed in Los Angeles, USA. 
 
-	Data Search Formula:     "Keyword" "Location" "mail address name"
-	---------------------
-	                         "dentist" "Los Angeles, USA" "@gmail.com"
+		- Open browser and search below way
+
+		- Data Search Formula:     "Keyword" "Location" "mail address name"
+		  ---------------------
+	                         	   "dentist" "Los Angeles, USA" "@gmail.com"
 
 
 	Type-2 Customer requirement: I need you to collect 1000 emails from students from Norway from Facebook.
 
-	Data Search Formula: Site:       (site domain) "Keyword" "Location" "main address name"
-	---------------------
-	                                  site: facebook.com "student" "Norway" "@gmail.com"
+		- Data Search Formula: Site:       (site domain) "Keyword" "Location" "main address name"
+		  ---------------------
+	                                  	           site: facebook.com "student" "Norway" "@gmail.com"
 
-					To collect bulk email use the site "https://email-checker.net/extract-email"
+		- To collect bulk email use the site "https://email-checker.net/extract-email"
 
 	Mail Account Type
 	--------------------
@@ -130,12 +132,11 @@ How to work in "skrapp.io"
 		yahoo mail	mozilla thunderbird
 
 	
-	Email Extractor: (copy bulk email)
+	Email Extractor: (to copy one page all email)
 	---------------
 	One way, using email extractor by chrome plugin
-		1. you need to add email extractor plugin, open chrome browser and 
-		   type "download email extractor extension for chrome" --> 
-		   Email Extractor - Chrome Web Store --> add email extractor
+		1. you need to add email extractor plugin, open chrome browser --> settings --> 
+		   Extentions --> Visit chrome web store --> Extention --> search: email extractor 
 
 		2. pin email extractor with browser
 		3. do search query and  get result by formulla
