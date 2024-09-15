@@ -3,7 +3,7 @@ Task-4
 	- Cold (many) Email Collection
 
 
-**Company Data Collection**
+////Company Data Collection////
 ------------------------------
 
 Lead: 
@@ -92,7 +92,7 @@ How to work in "skrapp.io"
 			- copy the required information and use it for your current task
 
 	
-	For "Email Check, Valid/Invalid"
+	For "Email Verification (Valid/Invalid)"
 		
 		- click on "Email Verifier"
 			- Type in an email address: type person email address 
@@ -102,7 +102,7 @@ How to work in "skrapp.io"
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 
-Cold Email Collection (collect many email at a time on the base of particular condition)
+////Cold Email Collection//// (collect many email at a time on the base of particular condition)
 ----------------------
 
 	Type-1 Customer requirement: I need you to collect 200 corresponding emails of dentists besed in Los Angeles, USA. 
