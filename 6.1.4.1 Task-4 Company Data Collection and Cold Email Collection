@@ -1,19 +1,34 @@
-////////Company Data Collection and Cold Email Collection////////////////////////////
+Task-4
+	- Company Data Collection
+	- Cold (many) Email Collection
 
-Type1: 
-Information about Company
 
-Lead = Information/Data. It can be person information, company information etc.
-One Lead: - all information of a person
-	  - all information of a company
+**Company Data Collection**
+------------------------------
 
-Lead/Data Collection: Collecting data/information by own self.
-Lead/Data Generation: Collecting data/information by other.
+Lead: 
+	- Information/Data.
+	- person information, company information
 
-B2B: Business To Business (Collecting business information for business company) Lead Generation
-B2C: Business To Customer/Consumer/Client (Collecting person information for business company) Lead Generation
+One Lead means: 
+	- all information of a person
+	- all information of a company
 
-skrapp.io    //for company information collect
+Lead Collection: Collecting data/information by own self.
+Lead Generation: Collecting data/information by other.
+
+Two type of collection:
+	- B2B: 
+		- Business To Business 
+		- Collecting business information for business company 
+		- Lead Generation
+
+	- B2C: 
+		- Business To Customer/Consumer/Client 
+		- Collecting person information for business company 
+		- Lead Generation
+
+skrapp.io    //for company information collection use this website
 
 How to work in "skrapp.io"
 ----------------------------
@@ -84,10 +99,12 @@ How to work in "skrapp.io"
 			- click on "Verify" button
 			
 
-	
+/////////////////////////////////////////////////////////////////////////////////////////////
+
 
 Cold Email Collection (collect many email at a time on the base of particular condition)
 ----------------------
+
 	Type-1 Customer requirement: I need you to collect 200 corresponding emails of dentists besed in Los Angeles, USA. 
 
 	Data Search Formula:     "Keyword" "Location" "mail address name"
