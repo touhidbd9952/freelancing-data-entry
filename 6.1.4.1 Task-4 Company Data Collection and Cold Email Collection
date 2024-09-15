@@ -149,6 +149,15 @@ How to work in "skrapp.io"
 		3. copy all the website
 		4. open one new tab and type "email extractor" and click on "Email Extractor - Online tool ...."
 		5. paste data in text box and click on "Extract Email" button 
+
+
+////Verify Email after collection////////////
+
+	- Open browser and type "https://emails-checker.net/bulk-email-checker" and press enter
+	- in "Bulk Email Checker and Validator" box:
+		- copy and paste all email or select email list file
+		- click on "Validate Emails" button
+		An excel file will generate and downloaded
 	
 		
 
