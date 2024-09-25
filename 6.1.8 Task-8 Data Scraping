@@ -1,0 +1,53 @@
+Data Scraping
+------------------
+- More than one information collection process is Data Scraping
+- Mainly use for many product information collection at a time
+- class video: https://www.youtube.com/watch?v=pulWJJYqdLM
+
+Data Scraping Extension Install
+--------------------------
+- Open chrome browser and type "Instant data scraper" and press enter
+- click on "Instant Data Scraper" from chrome.google.com
+- click on "Add to Chrome" button
+- now, click on Extention icon (beside the address bar of chrome browser) --> Intant Data Scraper (click on pin icon)
+
+How to Collect Data and Tranfer to excel file
+-----------------------------------------------
+Collect Data:
+- Open chrome browser and search product (E-Commerce site)
+- click on "Instant Data Scraper" icon (at the side of chrome browser address bar) --> ON/English (click)
+- click on "Locate Next Button" of Instant Data Scraper and scroll down chrome browser (product page) to pagination area and click on pagination "Next" button
+- click on "Sart crawling" button of Instant Data Scraper to start data collection
+- when need to stop collection, click on "Stop crawling" button of Instant Data Scraper
+
+Transfer to Excel file:
+- to transfer data to Excel file, click on "XLSX" button   // for excel data 
+- to transfer data to Google Sheet, click on "COPY ALL" button and open Google Sheet --> create a page by click on "+" --> click on a cell and right click --> paste
+
+How to Set Serial Number (1-100) auto in excel sheet
+---------------------------------
+- click a cell and type 1
+- Fill --> Series 
+	- Series is "Columns"
+	- Type "Linear"
+	- Step value: 1       Stop value:100        // 1-100
+
+PDF converter
+-----------------
+https://online2pdf.com/
+
+
+
+Email Finder
+-----------------
+- Open chrome browser and type "Email Extractor"
+- add Email Extractor
+
+
+
+
+
+
+
+
+
