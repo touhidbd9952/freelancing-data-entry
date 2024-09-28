@@ -1,0 +1,167 @@
+Web Scrapping
+--------------------------
+- If same type of information (peoples/companys) need to collect from a particular website (yellow page)
+   and make a list automatimally, we will use Web Scrapping
+- Use to collect only selected information quickly
+
+      For example: Client Requirement
+       --------------------------
+	    I need someone to collect 100 Dentist data. I need their Name, Phone Number, Website, Address.
+	    Location: new york
+	    budget:45$
+	    time: 1 day
+
+
+
+Working Process
+-------------------------
+     Step-1: Install "web scrapper" to collect data
+     ----------------------------------
+	- open browser and type "web scrapper" and  click on "Web Scrapper Free Web Scraping" 
+	- in Web Scraper website, click on "Install" button --> click on "Add to Chrome" button --> click on "Add Extention" 
+
+      Step-2: Search data from "Yellow Pages", "yelp","superpages.com", "whitepages.com", "mapquest.com"    
+      ----------------------------------
+	- open browser and type "yellow pages" and click on "yellowpages.com"
+	- in search bar, What are you looking for: Dentist	Location: New York      and click on "Find" button
+	
+
+       Step-3: Use Web Scrapper
+       ---------------------------------
+
+	////For First Page///////
+
+	- in yellow page, right click on blank space --> click on "Inspect"  --> Web Scraper (if you do not find it, click on  ">>" and search web scaper ) 
+		- a. Create New SiteMap
+			- click on "Create New SiteMap" --> Create Sitemap
+			- Sitemap name: Dentist_list
+			- Start URL: yellow page url paste here
+			- click on "Create Sitemap" button to create sitemap
+
+		-b. Select Particular SiteMap
+			- click on "Sitemaps" menu 
+			- click on "Dentist_list" sitemap
+
+		-c. Add Link Item in SiteMap
+			- after click on "Dentist_list" sitemap --> click on "Add New Selector" button
+			- Id: type "Doctor_ID"
+			- Type: click on "Link"      //to click on particular link
+			- Selector: click on "Select" and click on "Multiple" check box 
+			- in yellow page, click on multiple section to select all link of that page
+			- in yellow page, click on "Done Selecting" button
+			- in sitemap, click on "Save selector" button 
+
+		-d. Select Link Item Page Data in SiteMap
+			- in yellow page, click on a "link item(anchor link)" to go its link page
+			- in sitemap, click on "Linked Item (c)" --> click on "Add New Selector" button
+				- For "Person Name" collection:
+					- Id: Name
+					- Type: Data
+					- Selector: Select
+					- in yellow page, click on person name
+					- in yellow page, click on "Done Selecting" button
+					- in sitemap, click on "Save Selector" button
+
+				- For "Person Phone" collection:
+					- in sitemap, click on "Add New Selector" button
+					- Id: Phone Number
+					- Type: Data
+					- Selector: Select
+					- in yellow page, click on person Phone number
+					- in yellow page, click on "Done Selecting" button
+					- in sitemap, click on "Save Selector" button
+
+				
+				- For "Person Website Link" collection:
+					- in sitemap, click on "Add New Selector" button
+					- Id: Website
+					- Type: Data
+					- Selector: Select
+					- in yellow page, click on person Website
+					- in yellow page, click on "Done Selecting" button
+					- in sitemap, click on "Save Selector" button
+				
+				- For "Person Address" collection:
+					- in sitemap, click on "Add New Selector" button
+					- Id: Address
+					- Type: Data
+					- Selector: Select
+					- in yellow page, click on person Address
+					- in yellow page, click on "Done Selecting" button
+					- in sitemap, click on "Save Selector" button
+			
+	////For Other_Pages///////
+
+	- click on "Sitemaps" menu
+	- click on "Add New Selector" button
+		- Id: Other_Pages
+		- Type: Link
+		- Selector: click on "Select" button and click on "Multiple" check box
+		- in yellow page, click on 2, 3, 4 (pagination)
+		- in yellow page, click on "Done Selecting" button
+		- in sitemap, click on "Save Selector" button
+
+	
+	/////Link Doctor_ID Page with Other_Pages sitemap//////////
+
+	a. Select Particular SiteMap
+		- click on "Sitemaps" menu 
+		- click on "Dentist_list" sitemap
+
+	b. Edit "Doctor_ID" sitemap
+		- click on "Doctor_ID" --> click on "Edit" button
+			- Parent Selector:
+				- click on "root" sitemap
+				- press (Ctrl +a) and click on "Other_Pages" sitemap 
+				- click on "Save Selector" button to link root sitemap (Dentist_list) with Other_Page sitemap
+
+
+	//////Check the SiteMap Design is Ok or Not///////////
+
+	- click on "Sitemap Dentist_list" menu --> click on "Selector grap"
+	- to check the graph, click on "root" icon
+
+	
+	//////Collecting Data by using SiteMap Design/Structure///////////
+
+	- click on "Sitemap Dentist_list" menu --> click on "Scrape"
+	- to scraping/data collection, click on "Start Scraping" button and wait... to coplete task
+	- after complete data collection, web scrapper will close automatically
+	- now, click on "refresh" button see update
+
+
+
+
+        Step-4: Export data to Excel Sheet
+
+		- click on "Sitemap Dentist_list" menu --> click on "Export data"
+		- click on ".XLSX" button
+		- after download, open excel and remove unnecessary column data and formatting.
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+		
+
+
+
+
+
+
+
+
+
+
