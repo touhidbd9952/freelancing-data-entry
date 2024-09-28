@@ -1,4 +1,4 @@
-Web Scrapping
+Web Scrapping (https://www.youtube.com/watch?v=aDzVtE6F1mg)
 --------------------------
 - If same type of information (peoples/companys) need to collect from a particular website (yellow page)
    and make a list automatimally, we will use Web Scrapping
@@ -17,12 +17,12 @@ Working Process
 -------------------------
      Step-1: Install "web scrapper" to collect data
      ----------------------------------
-	- open browser and type "web scrapper" and  click on "Web Scrapper Free Web Scraping" 
+	- open chrome browser and type "web scrapper" and  click on "Web Scrapper Free Web Scraping" 
 	- in Web Scraper website, click on "Install" button --> click on "Add to Chrome" button --> click on "Add Extention" 
 
       Step-2: Search data from "Yellow Pages", "yelp","superpages.com", "whitepages.com", "mapquest.com"    
       ----------------------------------
-	- open browser and type "yellow pages" and click on "yellowpages.com"
+	- open chrome browser and type "yellow pages" and click on "yellowpages.com"
 	- in search bar, What are you looking for: Dentist	Location: New York      and click on "Find" button
 	
 
@@ -31,7 +31,8 @@ Working Process
 
 	////For First Page///////
 
-	- in yellow page, right click on blank space --> click on "Inspect"  --> Web Scraper (if you do not find it, click on  ">>" and search web scaper ) 
+	- in yellow page, right click on blank space --> click on "Inspect"  --> Web Scraper (if you do not find it, click on  ">>" and search web scraper ) 
+
 		- a. Create New SiteMap
 			- click on "Create New SiteMap" --> Create Sitemap
 			- Sitemap name: Dentist_list
@@ -42,18 +43,19 @@ Working Process
 			- click on "Sitemaps" menu 
 			- click on "Dentist_list" sitemap
 
-		-c. Add Link Item in SiteMap
+		-c. Add First Page Item
 			- after click on "Dentist_list" sitemap --> click on "Add New Selector" button
 			- Id: type "Doctor_ID"
-			- Type: click on "Link"      //to click on particular link
+			- Type: click on "Link"      //to click to open particular page
 			- Selector: click on "Select" and click on "Multiple" check box 
 			- in yellow page, click on multiple section to select all link of that page
 			- in yellow page, click on "Done Selecting" button
 			- in sitemap, click on "Save selector" button 
 
-		-d. Select Link Item Page Data in SiteMap
+		-d. Select a Link Page Data
 			- in yellow page, click on a "link item(anchor link)" to go its link page
 			- in sitemap, click on "Linked Item (c)" --> click on "Add New Selector" button
+
 				- For "Person Name" collection:
 					- Id: Name
 					- Type: Data
@@ -90,7 +92,7 @@ Working Process
 					- in yellow page, click on "Done Selecting" button
 					- in sitemap, click on "Save Selector" button
 			
-	////For Other_Pages///////
+	////For Other_Pages data collection///////
 
 	- click on "Sitemaps" menu
 	- click on "Add New Selector" button
@@ -102,7 +104,7 @@ Working Process
 		- in sitemap, click on "Save Selector" button
 
 	
-	/////Link Doctor_ID Page with Other_Pages sitemap//////////
+	/////make a relation "Doctor_ID" Page with "Other_Pages" sitemap//////////
 
 	a. Select Particular SiteMap
 		- click on "Sitemaps" menu 
@@ -112,11 +114,11 @@ Working Process
 		- click on "Doctor_ID" --> click on "Edit" button
 			- Parent Selector:
 				- click on "root" sitemap
-				- press (Ctrl +a) and click on "Other_Pages" sitemap 
+				- press (Ctrl + a) and click on "Other_Pages" sitemap 
 				- click on "Save Selector" button to link root sitemap (Dentist_list) with Other_Page sitemap
 
 
-	//////Check the SiteMap Design is Ok or Not///////////
+	//////Check the SiteMap Design is Ok or Not befor scraping/Collecting Data///////////
 
 	- click on "Sitemap Dentist_list" menu --> click on "Selector grap"
 	- to check the graph, click on "root" icon
@@ -125,7 +127,7 @@ Working Process
 	//////Collecting Data by using SiteMap Design/Structure///////////
 
 	- click on "Sitemap Dentist_list" menu --> click on "Scrape"
-	- to scraping/data collection, click on "Start Scraping" button and wait... to coplete task
+	- to start scraping/data collection, click on "Start Scraping" button and wait... to complete task
 	- after complete data collection, web scrapper will close automatically
 	- now, click on "refresh" button see update
 
