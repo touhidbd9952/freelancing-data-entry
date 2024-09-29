@@ -63,7 +63,7 @@ Working Process for Client Requirement-1
 			- in sitemap, click on "Linked Item (c)" --> click on "Add New Selector" button
 			- in yellow page, click on a "link item(anchor link)" to go its link page
 
-				- For "Person Name" collection:
+				- For "Person Name" collection (_root/Doctor_ID):
 					- Id: Name
 					- Type: Data
 					- Selector: Select
@@ -71,7 +71,7 @@ Working Process for Client Requirement-1
 					- in yellow page, click on "Done Selecting" button
 					- in sitemap, click on "Save Selector" button
 
-				- For "Person Phone" collection:
+				- For "Person Phone" collection (_root/Doctor_ID):
 					- in sitemap, click on "Add New Selector" button
 					- Id: Phone Number
 					- Type: Data
@@ -81,7 +81,7 @@ Working Process for Client Requirement-1
 					- in sitemap, click on "Save Selector" button
 
 				
-				- For "Person Website Link" collection:
+				- For "Person Website Link" collection (_root/Doctor_ID):
 					- in sitemap, click on "Add New Selector" button
 					- Id: Website
 					- Type: Data
@@ -90,7 +90,7 @@ Working Process for Client Requirement-1
 					- in yellow page, click on "Done Selecting" button
 					- in sitemap, click on "Save Selector" button
 				
-				- For "Person Address" collection:
+				- For "Person Address" collection (_root/Doctor_ID):
 					- in sitemap, click on "Add New Selector" button
 					- Id: Address
 					- Type: Data
@@ -101,7 +101,7 @@ Working Process for Client Requirement-1
 			
 	////For Other_Pages data collection///////
 
-	- click on "Sitemaps" menu
+	- click on "Sitemaps" menu --> click on "Dentist_list" sitemap
 	- click on "Add New Selector" button
 		- Id: Other_Pages
 		- Type: Link
@@ -111,15 +111,15 @@ Working Process for Client Requirement-1
 		- in sitemap, click on "Save Selector" button
 
 	
-	/////make a relation "Doctor_ID" Page with "Other_Pages" sitemap//////////
+	/////make a relation "Doctor_ID" First Page with "Other_Pages" sitemap//////////
 
 	a. Select Particular SiteMap
 		- click on "Sitemaps" menu 
 		- click on "Dentist_list" sitemap
 
 	b. Edit "Doctor_ID" sitemap
-		- click on "Doctor_ID" --> click on "Edit" button
-			- Parent Selector:
+		- click on "Edit" button of "Doctor_ID"
+			- Parent Selectors:
 				- click on "root" sitemap
 				- press (Ctrl + a) and click on "Other_Pages" sitemap 
 				- click on "Save Selector" button to link root sitemap (Dentist_list) with Other_Page sitemap
