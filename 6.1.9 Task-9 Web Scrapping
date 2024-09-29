@@ -59,7 +59,7 @@ Working Process for Client Requirement-1
 			- in yellow page, click on "Done Selecting" button
 			- in sitemap, click on "Save selector" button 
 
-		-d. Select a Link Page Data
+		-d. Select a Link Page Data (_root/Doctor_ID)
 			- in sitemap, click on "Linked Item (c)" --> click on "Add New Selector" button
 			- in yellow page, click on a "link item(anchor link)" to go its link page
 
