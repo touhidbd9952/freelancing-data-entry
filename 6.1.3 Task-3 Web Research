@@ -25,6 +25,12 @@ There are two type of Keyword
 - Keyword that use for Searching
 - Keyword that use for Research 
 
+
+Example-1: Customer Requirement
+-------------------------------------
+· Search 20 female  Doctor/ teacher/ engineer, who must have 10,000 instagram followers or more inLocation: - (New York)
+· Gather first name and surname, Instagram handle, email, and website (Must)
+
 Formulla of Searching Data 
 ---------------------------
 	Who  Profession  in  "location"  platform
