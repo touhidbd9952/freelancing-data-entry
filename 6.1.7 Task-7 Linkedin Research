@@ -2,6 +2,24 @@ Class : https://www.youtube.com/watch?v=dDn1IlAp7NQ
 
 Task-1: Customer Requirement
 -----------------------------------
-Collect 50 Electrical Engineer / Doctor/ Teachers (যে কোন একটা টপিক নিয়ে কাজ করবেন) from LinkedIn. The Data we
+Collect 50 Electrical Engineer / Doctor/ Teachers who have previous work experience (যে কোন একটা টপিক নিয়ে কাজ করবেন) from LinkedIn. The Data we
 need: First Name, Last Name, LinkedIn URL, Current Company Name, previous company name> in Bangladesh/ New
 York. Please enter all data on Google Sheet
+
+
+Work Procedure
+-----------------------------
+- go to https://www.linkedin.com and login to your account
+- in top search bar, type "Doctor" and press enter
+- click on "People" button
+- click on "Locations" and select "Bangladesh" and click on "Show results" button to show search result
+
+- click on a doctor profile link and check the above condition. If have previous work experience, collect their information by clipboard
+- save information in google sheet
+- clean all format, format google sheet new way and share it to the client with editor permission
+
+
+
+
+
+
