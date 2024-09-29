@@ -4,12 +4,17 @@ Web Scrapping (https://www.youtube.com/watch?v=aDzVtE6F1mg)
    and make a list automatimally, we will use Web Scrapping
 - Use to collect only selected information quickly
 
-      For example: Client Requirement
-       --------------------------
+      	For example: Client Requirement-1
+       	--------------------------
 	    I need someone to collect 100 Dentist data. I need their Name, Phone Number, Website, Address.
 	    Location: new york
 	    budget:45$
 	    time: 1 day
+
+	For example: Client Requirement-2
+	---------------------------
+	    I need help collecting a list of 100 restaurants in Atlanta, GA. I require their name, phone number, 
+	    address, website, and reviews (if available).
 
 
 
