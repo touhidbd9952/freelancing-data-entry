@@ -1,0 +1,41 @@
+Google Map Scraping & Research
+--------------------------------------
+- Search data in google map
+- Searching Data (phone, email) From Website, 
+- Searching Data from Facebook
+- Searching Data from instagram
+- Copy data by using Clip Board
+- Paste data from Clip Board to Excel/Google Sheet
+
+Requirement
+------------------
+I need data on 50 real estate agencies based in Florida, USA. 
+including business names, addresses, Contact Number, website, 
+Emails, social media links, and ratings.
+I need all the requirements on an Excel sheet.
+
+Working Process:
+-------------------
+Step-1: Prepare a Excel Sheet/Google Sheet below way
+--------------------------------------------------------------------------------------------------------------
+ Serial	| Business Name | Addresses | Phone | Website | Email | Facebook | Instagram | Twitter | Rating     
+--------------------------------------------------------------------------------------------------------------
+	|	        |	        |	   |              |          |                  |                 |            |               
+--------------------------------------------------------------------------------------------------------------
+
+
+Step-2: Data Collection
+- Open chrome browser and type "real estate agencies in Florida, USA" and press enter
+- click on "Maps" 
+- continue scroll down to get more data
+- click on a link
+- copy data in ClipBoard
+- paste data from ClipBoard to Excel Sheet
+
+
+
+
+
+
+
+
