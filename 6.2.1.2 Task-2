@@ -1,0 +1,58 @@
+Google Map Scraping & Research
+--------------------------------------
+- Search data in google map
+- Searching Data (email, phone) From Website
+- Searching Data from Facebook
+- Searching Data from instagram
+- Copy data by using Clip Board
+- Paste data from Clip Board to Excel/Google Sheet
+
+Requirement
+------------------
+Hello, my name is Steve and I am the Head of Sales for a company based in New Zealand. 
+I need 500 leads that can be obtained from Google Maps for B2B cold calling. I'm looking 
+for a reliable partner with whom I can establish a long-term business relationship. I want 
+someone I can consistently order from.
+
+Data I Require:
+
+1.       Company Name		11.   Google Photo count
+2.       Company Domain Name	12.   Google Place ID
+3.       Phone Number		13.   Google Plus Code
+4.       Address		14.   Google Location Link
+5.       Postal Code		15.   Google Reviews ID
+6.       City			16.   Facebook URL
+7.       Country		17.   LinkedIn Page
+8.       Industry		18.   Instagram page
+9.       Google Rating		19.   Twitter page
+10.   Google Reviews		20.   Contact Email address
+
+
+Working Process:
+-------------------
+Step-1: Prepare a Excel Sheet/Google Sheet below way
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Serial	| Company Name |Domain Name | Phone Number | Contact Email address | Address | Postal Code | City | Country | Industry | Google Rating 	| Google Reviews |  Google Photo count |  Google Place ID | Google Plus Code | Google Location Link | Google Reviews ID | Facebook URL | Facebook URL | LinkedIn Page | Instagram page |  Twitter page 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|	         |	                |	                       |                                    |               |                    |         |              |              |                          |                           |                                |                             |                              |                                  |                                |                          |                          |                        |                         |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Step-2: Data Collection
+- Open chrome browser and type "real estate agencies in Florida, USA" and press enter
+- click on "Maps" 
+- continue scroll down to get more data
+- click on a link
+- copy data in ClipBoard
+- paste data from ClipBoard to Excel Sheet
+
+
+
+
+
+
+
+
+
+
+
