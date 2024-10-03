@@ -1,0 +1,54 @@
+Google Map Scraping & Research
+--------------------------------------
+- Search data in google map
+- Searching Data (email, phone) From Website
+- Searching Data from Facebook
+- Searching Data from instagram
+- Use "Instant Data Scraper" to copy data
+- Copy data from "Instant Data Scraper" Paste data to Excel/Google Sheet
+- Clean Format, Format data
+
+Requirement
+------------------
+I need information on 185 Health Insurance Companies in Texas, including their names, addresses, phone numbers, websites, and Ratings (if available).
+I need all the requirements on an Excel sheet.
+
+Data I Require:
+
+1. Comapany Name
+2. Address
+3. Phone Number
+4. Website
+5. Rating
+
+
+Working Process:
+-------------------
+Step-1: Prepare a Excel Sheet/Google Sheet below way
+--------------------------------------------------------------------
+ Serial	| Company Name | Address | Phone Number | Website | Rating 
+-------------------------------------------------------------------
+	      |	             |	       |	            |         | 
+-------------------------------------------------------------------
+
+Step-2: Data Collection
+- Open chrome browser and type "Health Insurance Companies in Texas" and press enter
+- click on "Maps" 
+- continue scroll down to get more data
+- Add "Instant Data Scaper"
+- click on "Instant Data Scaper" and edit column name and delete unnecessary field/column
+- copy data from "Instant Data Scaper" to Excel/Google Sheet
+- Check all data
+- Clear Formating, Do Formating with border
+
+
+
+
+
+
+
+
+
+
+
+- paste data from ClipBoard to Excel Sheet
