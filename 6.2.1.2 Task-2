@@ -59,6 +59,24 @@ Step-2: Data Collection
 - paste data from ClipBoard to Excel Sheet
 
 
+Google Place ID: 
+- Open browser and type "http://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder" and press enter
+- type "company name" in search box and press enter
+- click on showed link
+- copy Place ID: ChIJwfbqhYZTP20RJFp0MFwWbkI
+
+
+Google Review ID: 
+- copy and Google Place ID after below link
+	
+	https://search.google.com/local/writereview?placeid=......
+
+Place the “Google Place ID" after the equal sign on the link like below
+-------------------------------------------------------------------------
+https://search.google.com/local/writereview?placeid=ChIJ5az3fPRHDW0R7qk-xs4oVxQ
+
+
+
 
 
 
