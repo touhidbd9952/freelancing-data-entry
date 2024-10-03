@@ -60,6 +60,7 @@ Step-2: Data Collection
 
 
 Google Place ID: 
+----------------
 - Open browser and type "http://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder" and press enter
 - type "company name" in search box and press enter
 - click on showed link
@@ -67,6 +68,7 @@ Google Place ID:
 
 
 Google Review ID: 
+-----------------
 - copy and Google Place ID after below link
 	
 	https://search.google.com/local/writereview?placeid=......
@@ -77,6 +79,7 @@ https://search.google.com/local/writereview?placeid=ChIJ5az3fPRHDW0R7qk-xs4oVxQ
 
 
 Google Location Link:
+---------------------
 - in google map, click on "Share" icon
 - click on "Copy Link" 
 
