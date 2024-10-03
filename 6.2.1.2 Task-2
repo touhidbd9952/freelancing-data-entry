@@ -1,4 +1,4 @@
-Google Map Scraping & Research
+Google Map Scraping & Research (Large Scale)
 --------------------------------------
 - Search data in google map
 - Searching Data (email, phone) From Website
@@ -25,7 +25,15 @@ Data I Require:
 7.       Country		17.   LinkedIn Page
 8.       Industry		18.   Instagram page
 9.       Google Rating		19.   Twitter page
-10.   Google Reviews		20.   Contact Email address
+10.      Google Reviews		20.   Contact Email address
+
+Before importing the list to my CRM, I need some formatting done to it. I want below specific industries, including these industries initially.
+
+- Air Conditioning
+- Heat Pumps in New Zealand
+- Tire Shops in New Zealand
+- Hire Shops in New Zealand
+I want the data for every listing in each industry.
 
 
 Working Process:
@@ -38,8 +46,12 @@ Step-1: Prepare a Excel Sheet/Google Sheet below way
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+Step-2: Find cities list of New Zealand
+- Open chrome browser and type "city list of new zealand"
+- go to "Wikipedia" and copy city list in note pade
+
 Step-2: Data Collection
-- Open chrome browser and type "real estate agencies in Florida, USA" and press enter
+- Open chrome browser and type "Heat Pumps in Wellington, New Zealand" and press enter
 - click on "Maps" 
 - continue scroll down to get more data
 - click on a link
