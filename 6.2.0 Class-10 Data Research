@@ -1,0 +1,40 @@
+Data Research ( https://www.youtube.com/watch?v=tLk0BRYBA5w )
+---------------------------
+- Collecting information from website manually (not by Scraper tools)
+- Check the information correct or not
+- Set collected information in Excel/Google Sheet
+- Clear Format, Formating
+
+Requirement
+--------------
+I am looking for a list of Information Technology companies in California. I need their company name, 
+email, phone number, street address, zip code, and Facebook & Instagram URLs in an Excel sheet. 
+My budget for 200 leads is $30.
+
+Work Process
+-----------------
+Step-1: Create a Excel Sheet like below (if "website-url" client do not need, we will collect it for our work purpose.)
+
+
+Company Name |    Email      | Phone Number | Street Address | Zip Code | Facebook | Instagram | Website
+-------------------------------------------------------------------------------------------------------------
+	        |                  |	                 |                        |                 |                  |	     |
+-------------------------------------------------------------------------------------------------------------
+
+
+Step-2: Data Collection and Set in Excel
+
+- Open browser and type "the real yellow pages" and click on "yellowpages.com"
+- in Search box, search for : Technology companies	Location: California  	and click on "FIND" button
+- collect some data (Company Name, Phone Number, Address, Website) by Web Scraper tools and make a excel sheet
+- the data you do not find by Web Scraper tools (like email, facebook, instagram), collect through "Website"
+
+- after collection, clean excel format, do proper format with border
+
+
+
+
+
+
+
+
